@@ -13,4 +13,5 @@ I'm currently working on node.js
 ---
 [![](https://visitcount.itsvg.in/api?id=berke-turk&icon=6&color=6)](https://visitcount.itsvg.in)
 
+![image](https://github.com/berke-turk/berke-turk/assets/52781956/2b801fa5-1dcb-46e8-95e8-1b4701620fbc)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
