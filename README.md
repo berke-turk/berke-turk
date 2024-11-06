@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm currently working on node.js
+I'm Full Stack Developer
 
 
 ## 🌐 Socials:
